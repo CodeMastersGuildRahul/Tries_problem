@@ -1,1 +1,3 @@
 # Tries_problem
+
+Basically this problem is a ,How to solve tries like insurt,searching and problem StartsWith...
